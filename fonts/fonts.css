@@ -1,0 +1,20 @@
+@charset "uft-8";
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+@font-face{
+    font-family:"어그로체B";
+    src: url("./SB-어그로-B.woff") format("woff"),
+        url("./SB-어그로OTF-B.otf") format("opentype"),
+        url("./SB-어그로-B.ttf") format("truetype");
+    font-weight:700;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:"어그로체M";
+    src: url("./SB-어그로-M.woff") format("woff"),
+        url("./SB-어그로OTF-M.otf") format("opentype"),
+        url("./SB-어그로-M.ttf") format("truetype");
+    font-weight:500;
+    font-style:normal;
+}
